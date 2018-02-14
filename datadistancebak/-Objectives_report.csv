@@ -1,0 +1,3 @@
+Name,Value,Weight
+Minimize time to complete all operations,109.0,5.0
+Minimize transit time between assigned operations of scheduling assignments based on locations and distances,596.857114602894,5.0
